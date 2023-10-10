@@ -1,5 +1,5 @@
 
---- EXPLORING
+--- EXPLORING the data 
  
 
 SELECT SalesOrderID, OnlineOrderFlag from Sales.SalesOrderHeader;
